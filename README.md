@@ -1,4 +1,6 @@
-# Cloud STT comparisons for audio transcription (specifically streaming transcription over ulaw/alaw/slin16)
+# Ultimate Showdown of all Cloud STT APIs
+
+## Cloud STT comparisons for audio transcription (specifically streaming transcription over ulaw/alaw/slin16)
 
 Speech APIs in consideration:-
 
