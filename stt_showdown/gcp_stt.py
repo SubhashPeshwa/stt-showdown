@@ -2,7 +2,7 @@ import io
 from google.cloud import speech
 import os
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "./env/ssp.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "../env/ssp.json"
 
 
 def transcribe_stream(stream_file):
